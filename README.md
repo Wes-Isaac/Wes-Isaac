@@ -5,10 +5,8 @@
 
 <img src="./helloworld2.gif"/>
 
-### Skills: React Native/ Nextjs/ Firebase/ Nestjs/ PHP
-
-
-- 🌱 I’m currently learning Rust. 
+### Skills: React Native/ Nextjs/ Firebase
+ 
 - 👯 I’m looking to collaborate on any open-source project. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/yishak-wesego-b404851a7/) 
 
